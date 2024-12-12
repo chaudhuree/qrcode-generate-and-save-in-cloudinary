@@ -1,0 +1,1 @@
+ [sample api call url](http://localhost:3000/generate-qr-code?data=sohan)
